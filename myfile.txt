@@ -5,3 +5,5 @@ Hi Everyone
 3rd change
 
 Some other lines
+
+Preparing for GitHub
